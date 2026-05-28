@@ -1,0 +1,6 @@
+{
+  "name": "Freternity",
+  "description": "An interactive real-time note-matching game and trainer for bass and guitar players.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
